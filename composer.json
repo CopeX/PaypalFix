@@ -1,0 +1,21 @@
+{
+    "name": "copex/module-paypalfix",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "email": "roman.hutterer@copex.io",
+            "name": "Roman Hutterer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "CopeX\\PaypalFix\\": ""
+        }
+    }
+}
