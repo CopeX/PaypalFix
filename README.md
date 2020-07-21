@@ -1,5 +1,5 @@
 # This is a quick fix for Magento_Paypal Module in Magento2
-The hole module is inspired by the pull-Request by  "therool"
+The whole module is inspired by the pull-Request by  "therool"
 which did the pull-request [here](https://github.com/magento/magento2/pull/12401)
 
 The only thing i did is to put his code in a working magento2 module to give currently running shops a working paypal payment method.
